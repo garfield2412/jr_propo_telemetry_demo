@@ -1,4 +1,4 @@
-# jr_propo_telemetry_demo
+# JR Propo telemetry demo
 With this code, you can experiment with sending JR-Propo demo telemetry values via SoftSerial to the receiver's 'Sens' port, where they are displayed on the transmitter. This is only a demo for other experiments and further development!
 
 it is based on our blog
