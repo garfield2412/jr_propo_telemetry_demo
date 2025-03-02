@@ -6,3 +6,4 @@ https://www.rcgroups.com/forums/showthread.php?4519323-Add-JR-propo-telemetry-pr
 
 ![IMG_20240320_185434](https://github.com/user-attachments/assets/a5f7e28a-b472-49bd-99b7-a55c15a2c9f4)
 ![IMG_20250131_011023](https://github.com/user-attachments/assets/c981fdb3-dbb0-4343-80da-82fbb1834e55)
+![jr_propo_softserial](https://github.com/user-attachments/assets/cdd29879-691e-4836-9ec6-c7919e97be99)
